@@ -10,10 +10,10 @@ A cryptocurrency, crypto-currency, or crypto is a digital asset designed to work
 
 Bitcoin, first released as open-source software in 2009, is the first decentralized cryptocurrency. Since the release of bitcoin, other cryptocurrencies have been created.
 
-## Cryptocurrencies and Blockchains I am following (NOT INVESTMENT ADVICE)
+## Cryptocurrencies and Blockchains I am following (not investment advice)
 
-#### - Bitcoin ($BTC)
-#### - Ethereum and Ethereum 2.0 ($ETH)
-#### - Cardano ($ADA)
-#### - Algorand ($ALGO)
-#### - Tellor ($TRB)
+#### - Bitcoin (BTC)
+#### - Ethereum and Ethereum 2.0 (ETH)
+#### - Cardano (ADA)
+#### - Algorand (ALGO)
+#### - Tellor (TRB)
