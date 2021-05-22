@@ -1,6 +1,6 @@
 # React JS Cryptocurrency Dashboard
 
-Cryptocurrency dashboard using the Coinbase API to retreive info using their REST and Websocket API for real time data
+Cryptocurrency dashboard using Coinbase API to retreive real time data
 
 And always remember, 💎 🙌 🚀 #tothemoon
 
